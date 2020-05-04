@@ -1,0 +1,16 @@
+{
+  "name": "gostack-nodejs-concept",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/artenks/gostack-nodejs-concept",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
